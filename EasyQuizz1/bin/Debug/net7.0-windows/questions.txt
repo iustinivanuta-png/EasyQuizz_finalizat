@@ -1,0 +1,83 @@
+﻿Capitala Romaniei?|Geografie|Usoara|Text, RaspunsMultiplu||Madrid;False|Bucuresti;True|Paris;False|Roma;False
+Capitala Frantei?|Geografie|Usoara|Text, RaspunsMultiplu||Berlin;False|Paris;True|Lisabona;False|Viena;False
+Care este cel mai mare ocean?|Geografie|Usoara|Text, RaspunsMultiplu||Atlantic;False|Indian;False|Pacific;True|Arctic;False
+Care este cel mai lung fluviu din Europa?|Geografie|Medie|Text, RaspunsMultiplu||Volga;True|Dunarea;False|Rinul;False|Sena;False
+Ce tara are forma de cizma?|Geografie|Usoara|Text, RaspunsMultiplu||Spania;False|Italia;True|Grecia;False|Portugalia;False
+Care este cel mai inalt munte din lume?|Geografie|Usoara|Text, RaspunsMultiplu||Mont Blanc;False|Everest;True|Elbrus;False|Kilimanjaro;False
+Care este capitala Germaniei?|Geografie|Usoara|Text, RaspunsMultiplu||Berlin;True|Hamburg;False|Munchen;False|Bonn;False
+Care este cel mai mare continent?|Geografie|Usoara|Text, RaspunsMultiplu||Africa;False|Europa;False|Asia;True|America;False
+Ce tara are capitala Tokyo?|Geografie|Usoara|Text, RaspunsMultiplu||China;False|Japonia;True|Coreea;False|India;False
+Care este desertul cel mai mare?|Geografie|Medie|Text, RaspunsMultiplu||Sahara;True|Gobi;False|Atacama;False|Kalahari;False
+Ce rau traverseaza Londra?|Geografie|Medie|Text, RaspunsMultiplu||Tamisa;True|Dunarea;False|Sena;False|Loara;False
+Capitala Spaniei?|Geografie|Usoara|Text, RaspunsMultiplu||Barcelona;False|Madrid;True|Valencia;False|Sevilla;False
+Care este cea mai populata tara?|Geografie|Grea|Text, RaspunsMultiplu||India;True|SUA;False|Rusia;False|Brazilia;False
+Ce continent este Egipt?|Geografie|Usoara|Text, RaspunsMultiplu||Europa;False|Africa;True|Asia;False|America;False
+Care este capitala Italiei?|Geografie|Usoara|Text, RaspunsMultiplu||Milano;False|Roma;True|Napoli;False|Torino;False
+Ce tara are capitala Ottawa?|Geografie|Medie|Text, RaspunsMultiplu||Canada;True|Australia;False|SUA;False|Mexic;False
+Care este cel mai mare fluviu din lume?|Geografie|Grea|Text, RaspunsMultiplu||Amazon;True|Nil;False|Yangtze;False|Mississippi;False
+Ce tara este renumita pentru piramide?|Geografie|Usoara|Text, RaspunsMultiplu||India;False|Egipt;True|Peru;False|Mexic;False
+Capitala Portugaliei?|Geografie|Medie|Text, RaspunsMultiplu||Porto;False|Lisabona;True|Madrid;False|Braga;False
+Care este cel mai mic continent?|Geografie|Medie|Text, RaspunsMultiplu||Australia;True|Europa;False|Antarctica;False|Africa;False
+
+Cine a fost primul presedinte al SUA?|Istorie|Medie|Text, RaspunsMultiplu||George Washington;True|Lincoln;False|Kennedy;False|Roosevelt;False
+In ce an a inceput Primul Razboi Mondial?|Istorie|Medie|Text, RaspunsMultiplu||1912;False|1914;True|1918;False|1939;False
+Cine a descoperit America?|Istorie|Usoara|Text, RaspunsMultiplu||Cristofor Columb;True|Magellan;False|Napoleon;False|Vasco da Gama;False
+In ce an a avut loc Revolutia Franceza?|Istorie|Grea|Text, RaspunsMultiplu||1789;True|1804;False|1812;False|1776;False
+Cine a fost domnitorul Moldovei?|Istorie|Usoara|Text, RaspunsMultiplu||Stefan cel Mare;True|Mihai Viteazul;False|Decebal;False|Traian;False
+Ce zid a separat Berlinul?|Istorie|Usoara|Text, RaspunsMultiplu||Zidul Berlinului;True|Zidul Chinezesc;False|Zidul Roman;False|Zidul Atlanticului;False
+Cine a fost imparatul roman celebru?|Istorie|Medie|Text, RaspunsMultiplu||Cezar;True|Newton;False|Aristotel;False|Galilei;False
+In ce an a inceput Al Doilea Razboi Mondial?|Istorie|Usoara|Text, RaspunsMultiplu||1939;True|1945;False|1918;False|1929;False
+Cine a fost conducatorul Germaniei naziste?|Istorie|Usoara|Text, RaspunsMultiplu||Hitler;True|Stalin;False|Churchill;False|Roosevelt;False
+Ce popor a construit piramidele?|Istorie|Usoara|Text, RaspunsMultiplu||Egiptenii;True|Romanii;False|Grecii;False|Vikingii;False
+Cine a fost primul imparat al Romei?|Istorie|Grea|Text, RaspunsMultiplu||Augustus;True|Nero;False|Traian;False|Caesar;False
+Ce imperiu a cucerit Constantinopolul?|Istorie|Medie|Text, RaspunsMultiplu||Otoman;True|Roman;False|Persan;False|Britanic;False
+Cine a fost Mihai Viteazul?|Istorie|Usoara|Text, RaspunsMultiplu||Domnitor roman;True|Poet;False|Medic;False|Inventator;False
+Ce tara a construit Zidul Chinezesc?|Istorie|Usoara|Text, RaspunsMultiplu||China;True|Japonia;False|Coreea;False|India;False
+Cine a fost Napoleon?|Istorie|Medie|Text, RaspunsMultiplu||Imparat francez;True|Rege englez;False|Tar rus;False|General roman;False
+Care civilizatie a construit Colosseumul?|Istorie|Medie|Text, RaspunsMultiplu||Romanii;True|Grecii;False|Egiptenii;False|Maya;False
+Ce document a semnat Ioan fara de Tara?|Istorie|Grea|Text, RaspunsMultiplu||Magna Carta;True|Constitutia;False|Biblia;False|Pacea de la Versailles;False
+Ce razboi a durat 100 de ani?|Istorie|Grea|Text, RaspunsMultiplu||Razboiul de 100 de ani;True|Razboiul Rece;False|Razboiul Civil;False|Razboiul Mondial;False
+Cine a fost Alexandru cel Mare?|Istorie|Medie|Text, RaspunsMultiplu||Rege macedonean;True|Imparat roman;False|Filosof grec;False|Poet;False
+Ce imperiu a fost condus de Traian?|Istorie|Usoara|Text, RaspunsMultiplu||Imperiul Roman;True|Imperiul Otoman;False|Imperiul Persan;False|Imperiul Bizantin;False
+
+Ce inseamna CPU?|Informatica|Usoara|Text, RaspunsMultiplu||Procesor;True|Monitor;False|Mouse;False|Boxa;False
+Ce inseamna RAM?|Informatica|Usoara|Text, RaspunsMultiplu||Memorie;True|Procesor;False|Hard Disk;False|Placa video;False
+Ce limbaj este folosit pentru pagini web?|Informatica|Usoara|Text, RaspunsMultiplu||HTML;True|Photoshop;False|Excel;False|Paint;False
+Ce dispozitiv afiseaza imaginea?|Informatica|Usoara|Text, RaspunsMultiplu||Monitor;True|Tastatura;False|Router;False|Scanner;False
+Ce dispozitiv folosim pentru tastare?|Informatica|Usoara|Text, RaspunsMultiplu||Tastatura;True|Mouse;False|Monitor;False|Imprimanta;False
+Ce inseamna USB?|Informatica|Grea|Text, RaspunsMultiplu||Universal Serial Bus;True|Ultra System Bus;False|User Storage Box;False|Universal System Board;False
+Ce program folosim pentru texte?|Informatica|Usoara|Text, RaspunsMultiplu||Word;True|Paint;False|Chrome;False|Steam;False
+Ce inseamna WWW?|Informatica|Medie|Text, RaspunsMultiplu||World Wide Web;True|Wide World Web;False|Web World Wide;False|World Web Window;False
+Ce dispozitiv tipareste?|Informatica|Usoara|Text, RaspunsMultiplu||Imprimanta;True|Scanner;False|Router;False|Boxa;False
+Ce este Windows?|Informatica|Usoara|Text, RaspunsMultiplu||Sistem de operare;True|Joc;False|Browser;False|Antivirus;False
+Ce program este browser?|Informatica|Usoara|Text, RaspunsMultiplu||Chrome;True|Word;False|Excel;False|Paint;False
+Ce componenta stocheaza date permanent?|Informatica|Medie|Text, RaspunsMultiplu||SSD;True|RAM;False|CPU;False|Cooler;False
+Ce inseamna HTML?|Informatica|Usoara|Text, RaspunsMultiplu||Hyper Text Markup Language;True|High Text Machine Language;False|Home Tool Markup Language;False|Hyper Transfer Main Language;False
+Ce inseamna AI?|Informatica|Medie|Text, RaspunsMultiplu||Inteligenta Artificiala;True|Automatizare Informatica;False|Internet Avansat;False|Aplicatie Inteligenta;False
+Ce dispozitiv conecteaza reteaua?|Informatica|Medie|Text, RaspunsMultiplu||Router;True|Monitor;False|Mouse;False|Scanner;False
+Ce extensie au fisierele Word?|Informatica|Medie|Text, RaspunsMultiplu||docx;True|jpg;False|mp3;False|exe;False
+Ce componenta proceseaza date?|Informatica|Usoara|Text, RaspunsMultiplu||CPU;True|SSD;False|RAM;False|Monitor;False
+Ce este un virus informatic?|Informatica|Medie|Text, RaspunsMultiplu||Program periculos;True|Antivirus;False|Browser;False|Driver;False
+Ce limbaj foloseste C#?|Informatica|Grea|Text, RaspunsMultiplu||Programare;True|Editare video;False|Desen;False|Muzica;False
+Ce program folosim pentru tabele?|Informatica|Usoara|Text, RaspunsMultiplu||Excel;True|Paint;False|Steam;False|Discord;False
+
+Cate camere are inima umana?|Biologie|Usoara|Text, RaspunsMultiplu||2;False|3;False|4;True|5;False
+Ce organ produce urina?|Biologie|Usoara|Text, RaspunsMultiplu||Rinichi;True|Ficat;False|Plaman;False|Stomac;False
+Ce pigment da culoarea verde plantelor?|Biologie|Medie|Text, RaspunsMultiplu||Clorofila;True|Melanina;False|Hemoglobina;False|Caroten;False
+Cum se numesc celulele nervoase?|Biologie|Usoara|Text, RaspunsMultiplu||Neuroni;True|Hematii;False|Leucocite;False|Trombocite;False
+Ce transporta globulele rosii?|Biologie|Medie|Text, RaspunsMultiplu||Oxigen;True|Apa;False|Calciu;False|Vitamine;False
+Ce organ pompeaza sangele?|Biologie|Usoara|Text, RaspunsMultiplu||Inima;True|Creier;False|Rinichi;False|Plaman;False
+Ce sistem controleaza corpul?|Biologie|Usoara|Text, RaspunsMultiplu||Sistemul nervos;True|Digestiv;False|Respirator;False|Osos;False
+Ce vitamina luam de la soare?|Biologie|Medie|Text, RaspunsMultiplu||Vitamina D;True|Vitamina C;False|Vitamina B;False|Vitamina A;False
+Care este osul cel mai lung?|Biologie|Grea|Text, RaspunsMultiplu||Femurul;True|Tibia;False|Radius;False|Humerus;False
+Ce organ ajuta la respiratie?|Biologie|Usoara|Text, RaspunsMultiplu||Plamanii;True|Ficatul;False|Splina;False|Rinichii;False
+Ce grupa de sange este donator universal?|Biologie|Grea|Text, RaspunsMultiplu||O;True|A;False|B;False|AB;False
+Cum se numesc celulele sangelui?|Biologie|Usoara|Text, RaspunsMultiplu||Hematii;True|Neuroni;False|Muschi;False|Celule stem;False
+Ce organ filtreaza toxinele?|Biologie|Medie|Text, RaspunsMultiplu||Ficatul;True|Inima;False|Creierul;False|Plamanul;False
+Ce sistem digera mancarea?|Biologie|Usoara|Text, RaspunsMultiplu||Digestiv;True|Respirator;False|Nervos;False|Circulator;False
+Ce gaz inspiram?|Biologie|Usoara|Text, RaspunsMultiplu||Oxigen;True|Azot;False|Dioxid de carbon;False|Heliu;False
+Cum se numeste procesul prin care plantele produc hrana?|Biologie|Medie|Text, RaspunsMultiplu||Fotosinteza;True|Respiratie;False|Digestie;False|Fermentatie;False
+Ce organ coordoneaza corpul?|Biologie|Usoara|Text, RaspunsMultiplu||Creierul;True|Ficatul;False|Splina;False|Pancreasul;False
+Ce sistem transporta sangele?|Biologie|Usoara|Text, RaspunsMultiplu||Circulator;True|Digestiv;False|Respirator;False|Muscular;False
+Cum se numesc oasele capului?|Biologie|Medie|Text, RaspunsMultiplu||Craniu;True|Vertebre;False|Coaste;False|Femur;False
+Ce organ produce insulina?|Biologie|Grea|Text, RaspunsMultiplu||Pancreasul;True|Ficatul;False|Stomacul;False|Splina;False
