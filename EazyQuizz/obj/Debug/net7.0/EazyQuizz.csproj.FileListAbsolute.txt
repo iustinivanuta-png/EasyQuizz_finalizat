@@ -1,0 +1,14 @@
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\obj\Debug\net7.0\EazyQuizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\obj\Debug\net7.0\EazyQuizz.AssemblyInfoInputs.cache
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\obj\Debug\net7.0\EazyQuizz.AssemblyInfo.cs
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\obj\Debug\net7.0\EazyQuizz.csproj.CoreCompileInputs.cache
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\bin\Debug\net7.0\EazyQuizz.exe
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\bin\Debug\net7.0\EazyQuizz.deps.json
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\bin\Debug\net7.0\EazyQuizz.runtimeconfig.json
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\bin\Debug\net7.0\EazyQuizz.dll
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\bin\Debug\net7.0\EazyQuizz.pdb
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\obj\Debug\net7.0\EazyQuizz.dll
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\obj\Debug\net7.0\refint\EazyQuizz.dll
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\obj\Debug\net7.0\EazyQuizz.pdb
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\obj\Debug\net7.0\EazyQuizz.genruntimeconfig.cache
+C:\Users\Detox\source\repos\EazyQuizz\EazyQuizz\obj\Debug\net7.0\ref\EazyQuizz.dll
